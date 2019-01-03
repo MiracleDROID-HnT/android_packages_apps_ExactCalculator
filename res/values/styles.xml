@@ -55,6 +55,8 @@
         <item name="android:textSize">@dimen/result_textsize</item>
     </style>
 
+    <style name="HistoryPopupTheme" parent="@android:style/ThemeOverlay.Material.Light" />
+
     <style name="PadButtonStyle" parent="@android:style/Widget.Material.Light.Button.Borderless">
         <item name="android:layout_width">0dip</item>
         <item name="android:layout_height">0dip</item>
